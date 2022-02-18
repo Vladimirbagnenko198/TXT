@@ -1,7 +1,7 @@
-{
-"name":"Vladimir",
-"Lastname":"Bagnenko",
-"Age ": 37,
-"Pets number": 1,
-"Salary": 16000
-}
+Name-Vladimir,
+Surname-Vladimirovich,
+Lastname-Bagnenko,
+Age-37,
+Pets number-1,
+Salary-16000
+
