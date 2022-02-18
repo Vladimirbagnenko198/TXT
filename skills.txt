@@ -1,1 +1,1 @@
-"Skills":Git","Terminal Linux","Android Studio","ADB","SQL","Mobile testing","Jmeter","Postman"
+Skills:Git,Terminal Linux,Android Studio,ADB,SQL,Mobile testing,Jmeter,Postman,Charles.
