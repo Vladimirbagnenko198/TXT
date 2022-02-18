@@ -1,0 +1,8 @@
+Id:1234,
+Title:"First bug report",
+Description:"First bug report",
+Actual result:"First bug report",
+Expected result:"First bug report",
+Environment:"Windows 10 corporate",
+Assigne:"Vladimir Bagnenko
+Attachments":"Hello Github!!"
