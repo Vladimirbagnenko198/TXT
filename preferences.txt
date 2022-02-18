@@ -1,0 +1,5 @@
+"Film":"Lorf of the rings",
+"TV series":"X Files",
+"Favorite food":"fry chicken",
+"Favorite time of the year":"Summer",
+"Favorite country":"Norway"
