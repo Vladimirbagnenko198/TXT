@@ -3,7 +3,7 @@ Title:First bug report,
 Description:First bug report,
 Actual result:First bug report,
 Expected result:First bug report,
-Environment:"Windows 10 corporate",
+Environment:Windows 10 corporate,
 Prioryty: Hight,
 Assigne:Vladimir Bagnenko
 Attachments:Hello Github!
