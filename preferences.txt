@@ -1,5 +1,5 @@
-Film:Lorf of the rings,
+Film:Lord of the rings,
 TV series:X Files,
-Favorite food":fry chicken,
+Favorite food:Fry potatoes,
 Favorite time of the year:Summer,
 Favorite country:Norway
